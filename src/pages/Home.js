@@ -9,7 +9,7 @@ function Home() {
     return (
         <div>
             <Hero backgroundImage={ matrix }>
-                <h1>   MICHAEL LEE <br></br>   Full Stack Developer</h1>
+                <h1> MICHAEL LEE <br></br>   Full Stack Developer</h1>
             </Hero>
             <Container style={{ marginTop: 70 }}>
                 <Row>
