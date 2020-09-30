@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/MikeLeeReact-Portfolio/static/css/main.49a5ab81.chunk.css",
+    "main.js": "/MikeLeeReact-Portfolio/static/js/main.242733fc.chunk.js",
+    "main.js.map": "/MikeLeeReact-Portfolio/static/js/main.242733fc.chunk.js.map",
+    "runtime-main.js": "/MikeLeeReact-Portfolio/static/js/runtime-main.b3cc081e.js",
+    "runtime-main.js.map": "/MikeLeeReact-Portfolio/static/js/runtime-main.b3cc081e.js.map",
+    "static/js/2.f95e9cfd.chunk.js": "/MikeLeeReact-Portfolio/static/js/2.f95e9cfd.chunk.js",
+    "static/js/2.f95e9cfd.chunk.js.map": "/MikeLeeReact-Portfolio/static/js/2.f95e9cfd.chunk.js.map",
+    "index.html": "/MikeLeeReact-Portfolio/index.html",
+    "precache-manifest.785bcb87ce81f7373bb646463bd53d51.js": "/MikeLeeReact-Portfolio/precache-manifest.785bcb87ce81f7373bb646463bd53d51.js",
+    "service-worker.js": "/MikeLeeReact-Portfolio/service-worker.js",
+    "static/css/main.49a5ab81.chunk.css.map": "/MikeLeeReact-Portfolio/static/css/main.49a5ab81.chunk.css.map",
+    "static/js/2.f95e9cfd.chunk.js.LICENSE.txt": "/MikeLeeReact-Portfolio/static/js/2.f95e9cfd.chunk.js.LICENSE.txt",
+    "static/media/Proj2-peregrine.JPG": "/MikeLeeReact-Portfolio/static/media/Proj2-peregrine.db287987.JPG",
+    "static/media/Project1.jpg": "/MikeLeeReact-Portfolio/static/media/Project1.646d9768.jpg",
+    "static/media/Scheduler.jpg": "/MikeLeeReact-Portfolio/static/media/Scheduler.bad5a8b3.jpg",
+    "static/media/burger.JPG": "/MikeLeeReact-Portfolio/static/media/burger.f9af5c61.JPG",
+    "static/media/matrix.jpg": "/MikeLeeReact-Portfolio/static/media/matrix.c3a648fa.jpg",
+    "static/media/notes.JPG": "/MikeLeeReact-Portfolio/static/media/notes.f6646d97.JPG",
+    "static/media/weather.jpg": "/MikeLeeReact-Portfolio/static/media/weather.5b0c3e30.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3cc081e.js",
+    "static/js/2.f95e9cfd.chunk.js",
+    "static/css/main.49a5ab81.chunk.css",
+    "static/js/main.242733fc.chunk.js"
+  ]
+}
