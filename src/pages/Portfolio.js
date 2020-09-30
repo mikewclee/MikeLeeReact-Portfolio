@@ -76,7 +76,7 @@ function Portfolio() {
            <div className="column">
               <h3>Note Taker</h3>
               This application allows users to write, save, and delete personal notes. <br /><br />
-              <a className="portfolio-link" href="https://young-fjord-20507.herokuapp.com/notes">Deployed application</a>
+              <a className="portfolio-link" href="https://notes-takers-app.herokuapp.com/">Deployed application</a>
               <a className="github-link" href="https://github.com/mikewclee/Note-Taker-Express"> GitHub link</a>
            </div>
         </div>

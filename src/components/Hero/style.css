@@ -1,12 +1,12 @@
 .hero {
-  height: 500px;
+  height: 800px;
   background-size: cover;
   background-position: center;
   position: relative;
 }
 
 .hero::after {
-  content: "";
+  /* content: ""; */
   display: block;
   opacity: .4;
   position: absolute;
@@ -24,10 +24,12 @@
 
 .hero h1, .hero h2 {
   color: white;
+  text-align: center;
+  vertical-align: middle;
 }
 
 .hero h1 {
   font-size: 60px;
-  padding-top: 140px;
+  padding-top: 250px;
   margin-top: 0;
 }
